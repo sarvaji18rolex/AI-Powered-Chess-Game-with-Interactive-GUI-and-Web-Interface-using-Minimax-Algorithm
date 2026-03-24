@@ -1,7 +1,7 @@
 import streamlit as st
 import chess
 import chess.svg
-from ai import get_best_move
+from ai import get_best_move 
 
 st.set_page_config(layout="wide")
 st.title("♟️ Chess AI Web App")
