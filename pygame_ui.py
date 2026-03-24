@@ -1,6 +1,6 @@
 import pygame
 import chess
-from ai import get_best_move
+from ai import get_best_move 
   
 WIDTH, HEIGHT = 480, 480
 SQ_SIZE = WIDTH // 8
