@@ -3,7 +3,7 @@ from ai import get_best_move
 
 def main():
     board = chess.Board()
-
+ 
     print("♟️ Welcome to Chess AI!")
     print("Enter moves in format: e2e4")
 
