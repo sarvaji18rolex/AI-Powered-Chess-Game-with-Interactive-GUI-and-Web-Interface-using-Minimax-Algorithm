@@ -1,5 +1,5 @@
 import pygame
-import chess
+import chess 
 from ai import get_best_move 
   
 WIDTH, HEIGHT = 480, 480
