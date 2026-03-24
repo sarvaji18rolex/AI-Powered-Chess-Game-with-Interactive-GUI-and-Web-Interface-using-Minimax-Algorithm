@@ -3,7 +3,7 @@ from utils import evaluate_board
 
 def minimax(board, depth, is_maximizing):
     if depth == 0 or board.is_game_over():
-        return evaluate_board(board)
+        return evaluate_board(board) 
 
     if is_maximizing:
         max_eval = float('-inf')
