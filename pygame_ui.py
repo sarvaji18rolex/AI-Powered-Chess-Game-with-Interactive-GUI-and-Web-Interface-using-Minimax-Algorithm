@@ -4,7 +4,7 @@ from ai import get_best_move
   
 WIDTH, HEIGHT = 480, 480
 SQ_SIZE = WIDTH // 8
-
+ 
 pygame.init()
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Chess AI")
