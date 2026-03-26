@@ -1,7 +1,7 @@
 import chess 
 from ai import get_best_move
  
-def main():
+def main(): 
     board = chess.Board()
  
     print("♟️ Welcome to Chess AI!")
