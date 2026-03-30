@@ -17,7 +17,7 @@ It uses the Minimax algorithm with heuristic evaluation to simulate intelligent 
 ---
 
 ## 🛠️ Technologies Used
-- Python
+- python
 - python-chess
 - pygame
 - streamlit
